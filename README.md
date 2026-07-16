@@ -2,7 +2,7 @@
 assignment of Immverse AI 
 # Sample Node.js Docker Application
 ## Prerequisites
-- Docker
+- - Docker
 - Node.js (optional for local development)
 ## Install Dependencies
 ```bash
